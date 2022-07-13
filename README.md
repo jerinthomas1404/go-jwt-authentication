@@ -33,5 +33,5 @@ Authenticating APIs with JWT tokens
 - Gin-Gonic It is a light weight web framework, mostly a wrapper around net/http package.
 - context.Context One-liner explaination it communicates the cancellation notification.
 Here we are using while interacting with the database as the request user can be cancelled before generating the response thus saving computational resources.
-- JWT Token [Understanding through a video](https:https://www.youtube.com/watch?v=soGRyl9ztjIs)
+- JWT Token [Understanding through a video](https://www.youtube.com/watch?v=soGRyl9ztjIs)
 Technical definition from [IBM](https://www.ibm.com/docs/en/order-management-sw/10.0?topic=features-jwt-authentication), this article also different types of JWT and its structure.
