@@ -12,7 +12,7 @@ Authenticating APIs with JWT tokens
     3. helpers
         : This contains multiple functions broadly for token generation and validation.
     4. middleware 
-        : The *GET request* routes are protected i.e. :grin: why I did this project? This folder contains logic to fetch JWT token and validate the token from the request header.
+        : The *GET request* routes are protected i.e. why :grin:  I did this project? This folder contains logic to fetch JWT token and validate the token from the request header.
     5. models
         : It contains the definition of user model which is used by the database as well as sent to the body of response.
     6. routes
